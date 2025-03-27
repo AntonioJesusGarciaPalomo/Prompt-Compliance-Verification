@@ -1,0 +1,25 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.7
+python-dotenv==1.0.0
+python-multipart==0.0.6
+httpx==0.24.1
+requests==2.31.0
+tenacity==8.2.3
+pytest==7.4.0
+pytest-asyncio==0.21.1
+
+# LangChain and dependencies
+langchain==0.0.267
+langchain-openai==0.0.2
+
+# Vector store and embeddings
+chromadb==0.4.13
+sentence-transformers==2.2.2
+
+# Azure OpenAI
+openai==1.3.5
+
+# Utils
+numpy==1.24.3
+tqdm==4.66.1
